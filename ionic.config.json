@@ -1,0 +1,8 @@
+{
+  "name": "mistabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "c631e77d"
+}
